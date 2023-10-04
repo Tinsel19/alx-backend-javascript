@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "babel-install": "2.1.0",
+    "eslint": "^8.50.0"
+  }
+}
